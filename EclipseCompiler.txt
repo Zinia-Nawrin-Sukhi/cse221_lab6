@@ -1,0 +1,34 @@
+28 Oct 2019 5:24:21 GMT: Log 'EclipseCompiler.txt' opened: 28 Oct 2019 5:24:21 GMT with name E:\cse221\lab\18101049_Md Imdadul Haque_Lab06\lab06\src\lab06\EclipseCompiler.txt
+26 Nov 2019 7:42:11 GMT: Log 'EclipseCompiler.txt' opened: 26 Nov 2019 7:42:11 GMT with name E:\cse221\lab\18101049_Md Imdadul Haque_Lab06\lab06\src\lab06\EclipseCompiler.txt
+26 Nov 2019 7:42:37 GMT: diagnostics = javax.tools.DiagnosticCollector@ad8a0a
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@133d006
+fileObjects = [E:\cse221\lab\18101049_Md Imdadul Haque_Lab06\lab06\src\lab06\Lab06.java]
+26 Nov 2019 7:42:37 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@b6545f' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\18101049_Md Imdadul Haque_Lab06\lab06\src;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+26 Nov 2019 7:42:38 GMT: Compiler call returned
+26 Nov 2019 7:45:04 GMT: diagnostics = javax.tools.DiagnosticCollector@3044ed
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1756514
+fileObjects = [E:\cse221\lab\18101049_Md Imdadul Haque_Lab06\lab06\src\lab06\Lab06.java]
+26 Nov 2019 7:45:04 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1db7f51' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\18101049_Md Imdadul Haque_Lab06\lab06\src;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+26 Nov 2019 7:45:04 GMT: Compiler call returned
+26 Nov 2019 8:30:31 GMT: diagnostics = javax.tools.DiagnosticCollector@17fa99f
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@120d049
+fileObjects = [E:\cse221\lab\lab4\Dijkstra.java]
+26 Nov 2019 8:30:31 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1d410a8' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\lab4;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+26 Nov 2019 8:30:31 GMT: Compiler call returned
+26 Nov 2019 8:30:31 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4f7346
+26 Nov 2019 8:30:31 GMT:  Kind = WARNING
+26 Nov 2019 8:30:31 GMT: Name = E:\cse221\lab\lab4\Dijkstra.java LineNo = 9 ColNo = 13 Msg = 'The value of the local variable r is not used'
+26 Nov 2019 8:35:57 GMT: diagnostics = javax.tools.DiagnosticCollector@1e4345
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1ef643f
+fileObjects = [E:\cse221\lab\lab4\Dijkstra.java, E:\cse221\lab\18101049_Md Imdadul Haque_Lab08(LCS)\LCS\src\lcs\LCS.java]
+26 Nov 2019 8:35:57 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@b8310d' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\lab4;E:\cse221\lab\18101049_Md Imdadul Haque_Lab08(LCS)\LCS\src;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+26 Nov 2019 8:35:57 GMT: Compiler call returned
+26 Nov 2019 8:35:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@cd2c97
+26 Nov 2019 8:35:57 GMT:  Kind = WARNING
+26 Nov 2019 8:35:57 GMT: Name = E:\cse221\lab\lab4\Dijkstra.java LineNo = 9 ColNo = 13 Msg = 'The value of the local variable r is not used'
+26 Nov 2019 8:35:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@eb74db
+26 Nov 2019 8:35:57 GMT:  Kind = WARNING
+26 Nov 2019 8:35:57 GMT: Name = E:\cse221\lab\18101049_Md Imdadul Haque_Lab08(LCS)\LCS\src\lcs\LCS.java LineNo = 27 ColNo = 25 Msg = 'This method has a constructor name'
+26 Nov 2019 8:35:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@c4cc0c
+26 Nov 2019 8:35:57 GMT:  Kind = WARNING
+26 Nov 2019 8:35:57 GMT: Name = E:\cse221\lab\18101049_Md Imdadul Haque_Lab08(LCS)\LCS\src\lcs\LCS.java LineNo = 12 ColNo = 8 Msg = 'The import java.io is never used'
